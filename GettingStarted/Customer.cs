@@ -12,7 +12,7 @@ namespace GettingStarted
             Orders = new List<Order>();
         }
 
-        public string Name { get; set; }
+        public string CustomrName { get; set; }
         public List<Order> Orders { get; set; }
     }
 
